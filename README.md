@@ -13,4 +13,4 @@
 <br>
 
 ## **More info**
-<a href="[https://neon-mat-b2e.notion.site/bfe8e65c3828419caa85f8c88f5ed323](https://neon-mat-b2e.notion.site/2bc134a20f99451987c684b12267ad08)"><img src="https://img.shields.io/badge/Portfolio-353535?style=flat-square&logo=Notion&logoColor=white&link=https://puffy-dumpling-10f.notion.site/Portfolio-d7b2997bcb054c9f88d38d681743a6ca"/>
+<a href="https://neon-mat-b2e.notion.site/bfe8e65c3828419caa85f8c88f5ed323](https://neon-mat-b2e.notion.site/2bc134a20f99451987c684b12267ad08"><img src="https://img.shields.io/badge/Portfolio-353535?style=flat-square&logo=Notion&logoColor=white&link=https://puffy-dumpling-10f.notion.site/Portfolio-d7b2997bcb054c9f88d38d681743a6ca"/>
