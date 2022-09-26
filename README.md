@@ -2,7 +2,7 @@
 ## **About me**
 클라우드 서비스와 앱 개발에 관심이 있는 컴퓨터공학과 3학년 학부생입니다.<br>
 
-## **Languages and skills**
+## **Languages & Skills**
 ![JavaScript](https://img.shields.io/badge/Javascript-%23323330.svg?style=flat-square&logo=javascript&logoColor=%23F7DF1E)<br>
 ![Python](https://img.shields.io/badge/python-3670A0?style=flat-square&logo=python&logoColor=ffdd54)  
 <img src="https://img.shields.io/badge/Amazon AWS-232F3E?style=flat-square&logo=Amazon%20AWS&logoColor=white"/></a>
