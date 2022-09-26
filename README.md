@@ -9,5 +9,5 @@
 언어는 python, js, dart를 공부하고 있습니다.
 
 공부한 내용을 정리한 노선 공개용 페이지 링크 
-\Downarrow \Downarrow \Downarrow \Downarrow \Downarrow
+⇓⇓⇓⇓⇓⇓⇓⇓⇓⇓⇓⇓⇓⇓⇓⇓⇓⇓⇓⇓⇓⇓⇓⇓⇓⇓⇓⇓⇓⇓⇓⇓⇓⇓
 https://neon-mat-b2e.notion.site/2bc134a20f99451987c684b12267ad08
