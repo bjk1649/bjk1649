@@ -1,7 +1,4 @@
 
-## **About me**
-클라우드 서비스와 앱 개발에 관심이 있는 컴퓨터공학과 학부생입니다.<br>
-
 ## **Languages & Skills**
 <img src="https://img.shields.io/badge/python-3670A0?style=flat-square&logo=python&logoColor=ffdd54"/></a> <br>
 <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=Node.js&logoColor=white"/></a> <br>
