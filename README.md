@@ -9,4 +9,4 @@
 
 
 ## latest post
-[![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=bjk1649)](https://github.com/bjk1649/velog-readme-stats)
+[![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api/list?name=bjk1649)](https://velog.io/@bjk1649) 
